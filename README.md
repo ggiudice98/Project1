@@ -8,12 +8,22 @@ And we had to cut it down so it was usable (it originally had 7million rows and 
 Set up
 Our libraries used were:
 import matplotlib.pyplot as plt
+
 import numpy as np
+
 import pandas as pd
+
 import sklearn as skl
+
 from sklearn.preprocessing import LabelBinarizer
+
 import scipy.stats as stats
+
 from sklearn import linear_model
+
 from scipy.stats import ttest_rel
+
 import seaborn as sns
+
+
 
