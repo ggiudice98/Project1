@@ -1,10 +1,10 @@
 # Determining the Cause of Departure Delays in Airports
- describe the data, recommendations.
+ 
 Introduction: Why we chose our project<br />
 For our project, we chose to look at the possible causes for departure delays in airports.<br />
 No one likes to have their flight delayed and if we can find out a way to reduce those times, then everyone in the system could benefit.<br />
 We found a large dataset from kaggle, link: https://www.kaggle.com/datasets/jl8771/2022-us-airlines-domestic-departure-data?select=Carriers.csv<br />
-And we had to cut it down so it was usable (it originally had 7million rows and was rather unwieldly. We parsed it down to just the month of January and 436000 rows).<br />
+And we had to cut it down so it was usable (it originally had 7 million rows and was rather unwieldly. We parsed it down to just the month of January and 436000 rows).<br />
 
 Research Questions & Answers:<br />
 1-	What are the biggest factors in determining flight delays?<br />
